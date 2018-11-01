@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aunty_in_dialer" >Teta</string>
+    <string name="uncle_in_dialer" >Ujo</string>
+    <string name="grandpa1_in_dialer" >Starý otec</string>
+    <string name="grandma1_in_dialer" >Stará mama</string>
+    <string name="father_in_dialer" >Otec</string>
+    <string name="mother_in_dialer" >Mama</string>
+    <string name="brother_in_dialer" >Brat</string>
+    <string name="sister_in_dialer" >Sestra</string>
+    <string name="other_in_dialer" >Iné</string>
+    <string name="time_am_in_dialer" >dop.</string>
+    <string name="time_pm_in_dialer" >pop.</string>
+</resources>

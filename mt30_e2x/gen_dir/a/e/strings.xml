@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="factory_reset_wait_title" >Obnovenie továrenských nastavení</string>
+    <string name="factory_reset_wait_message" >Čakajte, prosím...</string>
+    <string name="network_available" >Mobilná sieť nie je dostupná</string>
+    <string name="no_sim_card" >Žiadna karta SIM</string>
+</resources>

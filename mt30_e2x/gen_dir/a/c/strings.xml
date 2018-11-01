@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_title_call_ended" >Hovor ukončený</string>
+    <string name="card_title_call_decliend" >Hovor odmietnutý</string>
+    <string name="card_title_sos_call" >Núdzový hovor</string>
+    <string name="card_title_on_hold" >Podržať</string>
+    <string name="onHold" >Podržať</string>
+</resources>
